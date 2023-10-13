@@ -1,10 +1,8 @@
 #!/bin/bash
-
-##   E-phisher 	: 	Automated Phishing Tool
+##   E-Phisher 	: 	Automated Phishing Tool
 ##   Author 	: 	DARK-E
 ##   Version 	: 	2.3.5
-##   Github 	: 	https://github.com/E-HACKING/zphisher
-
+##   Github 	: 	https://github.com/E-HACKING
 
 ##                   GNU GENERAL PUBLIC LICENSE
 ##                    Version 3, 29 June 2007
